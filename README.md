@@ -14,6 +14,10 @@ MENTOR : NEELA SANTOSH
 
 This is a Django-based backend system for a blogging platform. It provides APIs for user registration, authentication, creating blog posts, updating/deleting posts, and retrieving blog content. The system uses SQLite as the default database.
 
+OUTPUT:
+
+https://github.com/priyankabudwant/BLOG-BACKEND-SYSTEM/issues/1
+
 ## Features
 
 - User Registration and Login (Token-based Authentication)
