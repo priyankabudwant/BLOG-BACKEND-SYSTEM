@@ -1,1 +1,54 @@
 # BLOG-BACKEND-SYSTEM
+
+This is a Django-based backend system for a blogging platform. It provides APIs for user registration, authentication, creating blog posts, updating/deleting posts, and retrieving blog content. The system uses SQLite as the default database.
+
+## Features
+
+- User Registration and Login (Token-based Authentication)
+- Create, Update, Delete, and View Blog Posts
+- Categorized Blogs and Tagging
+- Admin Panel for managing content and users
+- SQLite database (easy for development and testing)
+
+## Tech Stack
+
+- **Backend Framework**: Django (Python)
+- **Database**: SQLite
+- **Authentication**: Token-based (via Django REST Framework)
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- pip (Python package manager)
+- Virtualenv (recommended)
+
+### Installation
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/priyankabudwant/BLOG-BACKEND-SYSTEM.git
+   cd BLOG-BACKEND-SYSTEM/blog_project
+   ```
+   ## 2. Create a virtual environment:
+    
+    ```bash
+    python -m venv env
+    source env/bin/activate  # On Windows: env\Scripts\activate
+    ```
+    ## 3.Run migrations:
+    ```bash
+    python manage.py migrate
+    ```
+    ## 4.Create a superuser (optional):
+   ```bash
+   python manage.py createsuperuser
+   ```
+   ## 5. Start the development server:
+    ```bash
+    python manage.py runserver
+    ```
+   
+
