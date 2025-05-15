@@ -1,5 +1,17 @@
 # BLOG-BACKEND-SYSTEM
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: B K PRIYANKA
+
+INTERN ID: CT04DK48
+
+DOMAIN: BACKEND DEVELOPMENT
+
+DURATION: 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 This is a Django-based backend system for a blogging platform. It provides APIs for user registration, authentication, creating blog posts, updating/deleting posts, and retrieving blog content. The system uses SQLite as the default database.
 
 ## Features
