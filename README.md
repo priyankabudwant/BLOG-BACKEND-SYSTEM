@@ -16,7 +16,11 @@ This is a Django-based backend system for a blogging platform. It provides APIs 
 
 OUTPUT:
 
-https://github.com/priyankabudwant/BLOG-BACKEND-SYSTEM/issues/1
+![Image](https://github.com/user-attachments/assets/f0fbc5a4-6ed5-46b9-ab58-756c9ca2d2fc)
+
+![Image](https://github.com/user-attachments/assets/8666b45d-750b-4f92-a005-949cce9eb778)
+
+![Image](https://github.com/user-attachments/assets/24c9d314-9909-4dc9-99ca-7af1fe1ee8e4)
 
 ## Features
 
